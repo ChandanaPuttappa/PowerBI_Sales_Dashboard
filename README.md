@@ -1,7 +1,11 @@
 # PowerBI_Sales_Dashboard
 
-This project showcases a complete end-to-end Power BI sales dashboard built using real-world sales data.  
-It includes performance analysis by product category, region, time, and returns.  
+Built a fully interactive Power BI dashboard that transforms raw sales data into strategic business intelligence.
+This project showcases advanced DAX calculations, data modeling, and Power Query to uncover patterns in sales performance, product trends, customer returns, and geographic impact.
+
+With layered visuals, KPIs, and dynamic filters, the dashboard tells a clear data story - comparing actuals vs. targets, breaking down category performance, and tracking return rates.
+
+This is more than a dashboard - it’s an example of how data, when visualized right, can guide better decisions, faster. 
 
 ## 🔍 Key Insights:
 - Identified top-performing products and return patterns
