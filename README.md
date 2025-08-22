@@ -21,5 +21,5 @@ This is more than a dashboard - it’s an example of how data, when visualized r
 - Data Storytelling through dashboards
 
 ## 📁 Files Included:
-- `Sales_Dashboard.pbix`: The Power BI dashboard file
-- `Sales_Report.pdf`: Exported PDF version of the dashboard
+- `Sales_Report.pbix`: The Power BI dashboard file
+- `Sales_Dashboard.pdf`: Exported PDF version of the dashboard
